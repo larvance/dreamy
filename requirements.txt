@@ -1,0 +1,6 @@
+mediapipe~=0.10.21 # required for face detection and hand tracking
+opencv-python~=4.7.0.68 # same as mediapipe
+
+pygame~=2.6.1 # required if you are using the GUI with mouse
+
+pyo~=1.0.5
